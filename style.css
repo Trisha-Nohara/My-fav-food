@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: #f24927;
+    background: cyan;
+    font-family:'Fruktur', cursive; 
+}
+#Favourite Food{
+    width: 100%;
+    height: 800%px; 
+}
+#Favourite Food{
+    width: 100%;
+    height: 800%px;
+}
+img{
+    transition: transform .2s
+}
+img:hover{
+    transform: scale(0.9)
+}
+.line{
+    height: 7px;
+    background-color: aqua;
+    margin: 9px auto;
+    width: 70px;
+}
